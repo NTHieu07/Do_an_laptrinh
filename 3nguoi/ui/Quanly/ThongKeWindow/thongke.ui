@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1070</width>
+    <height>827</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Skibidi Water</string>
+  </property>
+  <property name="windowIcon">
+   <iconset>
+    <normaloff>../../../images/skibidi.png</normaloff>../../../images/skibidi.png</iconset>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QLabel" name="thongkeLabel">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>200</y>
+      <width>1051</width>
+      <height>591</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">
+background-color: #F0F8FF;
+font: 75 12pt &quot;MS Shell Dlg 2&quot;;
+color: #048cfc;
+border-radius: 10px;
+border: 1px solid #048cfc;
+
+</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QComboBox" name="LoaiDonHangcombobox">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>130</y>
+      <width>211</width>
+      <height>22</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">
+background-color: #F0F8FF;
+font: 75 8pt &quot;MS Shell Dlg 2&quot;;
+color: #048cfc;
+border-radius: 10px;
+border: 1px solid #048cfc;
+
+</string>
+    </property>
+    <item>
+     <property name="text">
+      <string>Tất cả</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Cà Phê</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Trà Sữa</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Nước Ép</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Sinh Tố</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Đá Xay</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Soda</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Trà Trái Cây</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Nước Ngọt</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Khác</string>
+     </property>
+    </item>
+   </widget>
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>110</y>
+      <width>221</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">font: 75 10pt &quot;MS Shell Dlg 2&quot;;
+color: #048cfc;
+
+</string>
+    </property>
+    <property name="text">
+     <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:10pt; font-weight:600;&quot;&gt;Loại đơn hàng&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_2">
+    <property name="geometry">
+     <rect>
+      <x>420</x>
+      <y>110</y>
+      <width>221</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">font: 75 10pt &quot;MS Shell Dlg 2&quot;;
+color: #048cfc;
+
+</string>
+    </property>
+    <property name="text">
+     <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:10pt; font-weight:600;&quot;&gt;Thời gian bắt đầu&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_3">
+    <property name="geometry">
+     <rect>
+      <x>820</x>
+      <y>110</y>
+      <width>221</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">font: 75 10pt &quot;MS Shell Dlg 2&quot;;
+color: #048cfc;
+
+</string>
+    </property>
+    <property name="text">
+     <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:10pt; font-weight:600;&quot;&gt;Thời gian kết thúc&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    </property>
+   </widget>
+   <widget class="QDateEdit" name="StarttimeEdit">
+    <property name="geometry">
+     <rect>
+      <x>420</x>
+      <y>130</y>
+      <width>191</width>
+      <height>22</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">
+background-color: #F0F8FF;
+font: 75 8pt &quot;MS Shell Dlg 2&quot;;
+color: #048cfc;
+border-radius: 10px;
+border: 1px solid #048cfc;
+
+</string>
+    </property>
+    <property name="displayFormat">
+     <string>d/M/yyyy</string>
+    </property>
+    <property name="calendarPopup">
+     <bool>true</bool>
+    </property>
+    <property name="date">
+     <date>
+      <year>2025</year>
+      <month>3</month>
+      <day>20</day>
+     </date>
+    </property>
+   </widget>
+   <widget class="QDateEdit" name="EndtimeEdit">
+    <property name="geometry">
+     <rect>
+      <x>820</x>
+      <y>130</y>
+      <width>191</width>
+      <height>22</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">
+background-color: #F0F8FF;
+font: 75 8pt &quot;MS Shell Dlg 2&quot;;
+color: #048cfc;
+border-radius: 10px;
+border: 1px solid #048cfc;
+
+</string>
+    </property>
+    <property name="displayFormat">
+     <string>d/M/yyyy</string>
+    </property>
+    <property name="calendarPopup">
+     <bool>true</bool>
+    </property>
+    <property name="date">
+     <date>
+      <year>2025</year>
+      <month>3</month>
+      <day>25</day>
+     </date>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="HomeButton">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>0</y>
+      <width>31</width>
+      <height>28</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="icon">
+     <iconset>
+      <normaloff>../../../images/Home.webp</normaloff>../../../images/Home.webp</iconset>
+    </property>
+   </widget>
+   <widget class="QComboBox" name="comboBoxhinhthuc">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>170</y>
+      <width>101</width>
+      <height>22</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">
+background-color: #F0F8FF;
+font: 75 8pt &quot;MS Shell Dlg 2&quot;;
+color: #048cfc;
+border-radius: 10px;
+border: 1px solid #048cfc;
+
+</string>
+    </property>
+    <item>
+     <property name="text">
+      <string>Tổng quan</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Chi tiết</string>
+     </property>
+    </item>
+   </widget>
+   <widget class="QLabel" name="label_5">
+    <property name="geometry">
+     <rect>
+      <x>390</x>
+      <y>20</y>
+      <width>291</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>16</pointsize>
+      <weight>75</weight>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(4, 140, 252);
+border-radius: 15px;
+padding: 5px;
+background-color: rgb(211, 234, 255);</string>
+    </property>
+    <property name="text">
+     <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-weight:696; color:#048cfc;&quot;&gt;Thống kê thu nhập&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_6">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>110</y>
+      <width>241</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">
+background-color: #F0F8FF;
+border-radius: 10px;
+border: 1px solid #048cfc;
+
+</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_7">
+    <property name="geometry">
+     <rect>
+      <x>410</x>
+      <y>110</y>
+      <width>241</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">
+background-color: #F0F8FF;
+border-radius: 10px;
+border: 1px solid #048cfc;
+
+</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_8">
+    <property name="geometry">
+     <rect>
+      <x>810</x>
+      <y>110</y>
+      <width>241</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">
+background-color: #F0F8FF;
+border-radius: 10px;
+border: 1px solid #048cfc;
+
+</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_4">
+    <property name="geometry">
+     <rect>
+      <x>-16</x>
+      <y>-35</y>
+      <width>1091</width>
+      <height>851</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>TextLabel</string>
+    </property>
+    <property name="scaledContents">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <zorder>label_4</zorder>
+   <zorder>label_8</zorder>
+   <zorder>label_7</zorder>
+   <zorder>label_6</zorder>
+   <zorder>thongkeLabel</zorder>
+   <zorder>LoaiDonHangcombobox</zorder>
+   <zorder>label</zorder>
+   <zorder>label_2</zorder>
+   <zorder>label_3</zorder>
+   <zorder>StarttimeEdit</zorder>
+   <zorder>EndtimeEdit</zorder>
+   <zorder>HomeButton</zorder>
+   <zorder>comboBoxhinhthuc</zorder>
+   <zorder>label_5</zorder>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1070</width>
+     <height>26</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menuExport_to_Excel">
+    <property name="title">
+     <string>Data</string>
+    </property>
+    <addaction name="actionExport_to_Excel"/>
+   </widget>
+   <addaction name="menuExport_to_Excel"/>
+  </widget>
+  <action name="actionExport_to_Excel">
+   <property name="text">
+    <string>Export to Excel</string>
+   </property>
+  </action>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

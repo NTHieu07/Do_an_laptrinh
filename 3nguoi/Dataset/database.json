@@ -1,0 +1,30 @@
+[
+    {
+        "ten": "Nguyễn Trung Hiếu",
+        "id": "1111",
+        "gioi_tinh": false,
+        "ngay_sinh": "06/07/2000",
+        "chuc_vu": "IT"
+    },
+    {
+        "ten": "Bé iu",
+        "id": "777",
+        "gioi_tinh": true,
+        "ngay_sinh": "08/08/2008",
+        "chuc_vu": "Bồi Bàn"
+    },
+    {
+        "ten": "Mabichnhi",
+        "id": "12345",
+        "gioi_tinh": true,
+        "ngay_sinh": "08/09/2005",
+        "chuc_vu": "Quản Lý"
+    },
+    {
+        "ten": "hihi",
+        "id": "1",
+        "gioi_tinh": false,
+        "ngay_sinh": "08/09/2005",
+        "chuc_vu": "Quản Lý"
+    }
+]

@@ -1,0 +1,88 @@
+[
+    {
+        "name": "Cà Phê",
+        "products": [
+            "Cà Phê Sữa 700 : 20000 (Image: 3nguoi/images/DoUong/ca_phe_sua.jpg)",
+            "Cà phê đen 700 : 20000 (Image: 3nguoi/images/DoUong/ca_phe_den.png)",
+            "Cà Phê Sương Sáo 1000 : 30000 (Image: 3nguoi/images/DoUong/ca_phe_suong_sao.jpg)",
+            "Cà Phê Sữa 1000 : 27000 (Image: 3nguoi/images/DoUong/ca_phe_sua.jpg)"
+        ]
+    },
+    {
+        "name": "Trà sữa",
+        "products": [
+            "Trà Sữa Truyền thống 700 : 20000 (Image: 3nguoi/images/DoUong/tra_sua_truyen_thong.jpg)",
+            "Trà Sữa Cốt Xoài 700 : 28000 (Image: 3nguoi/images/DoUong/tra_sua_cot_xoai.jpg)",
+            "Trà Sữa Khoai Môn 700 : 28000 (Image: 3nguoi/images/DoUong/tra_sua_khoai_mon.jpg)",
+            "Trà Sữa Matcha 700 : 30000 (Image: 3nguoi/images/DoUong/tra_sua_matcha.jpg)",
+            "Trà Sữa Củ Năng 700 : 27000 (Image: 3nguoi/images/DoUong/tra_sua_cu_nang.jpg)",
+            "Trà Sữa Kem Trứng 700 : 35000 (Image: 3nguoi/images/DoUong/tra_sua_kem_trung.jpg)",
+            "Trà Sữa Kem Phô Mai 700 : 32000 (Image: 3nguoi/images/DoUong/tra_sua_kem_pho_mai.jpg)",
+            "Trà Sữa Truyền thống 1000 : 27000 (Image: 3nguoi/images/DoUong/tra_sua_truyen_thong.jpg)"
+        ]
+    },
+    {
+        "name": "Nước Ép",
+        "products": [
+            "Nước Ép Cam 700 : 25000 (Image: 3nguoi/images/DoUong/nuoc_ep_cam.jpg)",
+            "Nước Ép Dưa Hấu 700 : 22000 (Image: 3nguoi/images/DoUong/nuoc_ep_dua_hau.jpg)",
+            "Nước Ép Ổi 700 : 24000 (Image: 3nguoi/images/DoUong/nuoc_ep_oi.jpg)",
+            "Nước Ép Cà Rốt 700 : 20000 (Image: 3nguoi/images/DoUong/nuoc_ep_ca_rot.jpg)",
+            "Nước Ép Thơm 700 : 27000 (Image: 3nguoi/images/DoUong/nuoc_ep_thom.jpg)"
+        ]
+    },
+    {
+        "name": "Sinh Tố",
+        "products": [
+            "Sinh Tố Bơ 700 : 30000 (Image: 3nguoi/images/DoUong/sinh_to_bo.jpg)",
+            "Sinh Tố Dâu 700 : 28000 (Image: 3nguoi/images/DoUong/sinh_to_dau.jpg)",
+            "Sinh Tố Xoài 700 : 27000 (Image: 3nguoi/images/DoUong/sinh_to_xoai.jpg)",
+            "Sinh Tố Mãng Cầu 700 : 25000 (Image: 3nguoi/images/DoUong/sinh_to_mang_cau.jpg)"
+        ]
+    },
+    {
+        "name": "Đá Xay",
+        "products": [
+            "Matcha Đá Xay 700 : 28000 (Image: 3nguoi/images/DoUong/matcha_da_xay.jpg)",
+            "Việt Quốc Đá Xay 700 : 27000 (Image: 3nguoi/images/DoUong/viet_quat_da_xay.jpg)",
+            "Dâu Đá Xay 700 : 25000 (Image: 3nguoi/images/DoUong/dau_da_xay.jpg)"
+        ]
+    },
+    {
+        "name": "Soda",
+        "products": [
+            "Soda Biển Xanh 700 : 25000 (Image: 3nguoi/images/DoUong/soda_bien_xanh.jpg)",
+            "Soda Bạc Hà Táo Xanh 700 : 27000 (Image: 3nguoi/images/DoUong/soda_bacha_taoxanh.jpg)",
+            "Soda Việt Quốc 700 : 25000 (Image: 3nguoi/images/DoUong/soda_viet_quat.jpg)"
+        ]
+    },
+    {
+        "name": "Trà Trái Cây",
+        "products": [
+            "Trà Đào Cam Sả 700 : 27000 (Image: 3nguoi/images/DoUong/tra_dao_cam_sa.jpg)",
+            "Trà Đào 700 : 25000 (Image: 3nguoi/images/DoUong/tra_dao.jpg)",
+            "Trà Vải 700 : 23000 (Image: 3nguoi/images/DoUong/tra_vai.jpg)",
+            "Trà Dưa Lưới Táo Xanh 700 : 27000 (Image: 3nguoi/images/DoUong/tra_dua_luoi.jpg)",
+            "Trà Chanh Mật Ong 700 : 20000 (Image: 3nguoi/images/DoUong/tra_chanh_mat_ong.jpg)",
+            "Trà Tắc Xí Muội 700 : 23000 (Image: 3nguoi/images/DoUong/tra_tac.jpg)",
+            "Trà Mãng Cầu 700 : 35000 (Image: 3nguoi/images/DoUong/tra_mang_cau.jpg)",
+            "Trà Ổi Hồng 700 : 30000 (Image: 3nguoi/images/DoUong/tra_oi_hong.jpg)"
+        ]
+    },
+    {
+        "name": "Nước Ngọt",
+        "products": [
+            "CocaCola 700 : 15000 (Image: 3nguoi/images/DoUong/cocacola.jpg)",
+            "Pepsi 700 : 15000 (Image: 3nguoi/images/DoUong/pepsi.jpg)",
+            "7Up 700 : 15000 (Image: 3nguoi/images/DoUong/7up.jpg)"
+        ]
+    },
+    {
+        "name": "Khác",
+        "products": [
+            "C2 700 : 10000 (Image: 3nguoi/images/DoUong/C2.jpg)",
+            "Nước lọc 700 : 5000 (Image: 3nguoi/images/DoUong/nuoc_loc.jpg)",
+            "Dr.Thanh 700 : 15000"
+        ]
+    }
+]

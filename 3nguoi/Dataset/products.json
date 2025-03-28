@@ -1,0 +1,282 @@
+[
+    {
+        "name": "Cà Phê Đen",
+        "size": "1000",
+        "price": 30000,
+        "danh_muc": "Cà Phê",
+        "image_path": "D:\\học đhoc\\Hoc ky 2\\Kỹ thuật lập trình\\3nguoi\\images\\DoUong\\ca_phe_den.png"
+    },
+    {
+        "name": "Cà Phê Đen",
+        "size": "700",
+        "price": 25000,
+        "danh_muc": "Cà Phê",
+        "image_path": "D:\\học đhoc\\Hoc ky 2\\Kỹ thuật lập trình\\3nguoi\\images\\DoUong\\ca_phe_den.png"
+    },
+    {
+        "name": "Cà Phê Sương Sáo",
+        "size": "1000",
+        "price": 30000,
+        "danh_muc": "Cà Phê",
+        "image_path": "D:\\học đhoc\\Hoc ky 2\\Kỹ thuật lập trình\\3nguoi\\images\\DoUong\\ca_phe_suong_sao.jpg"
+    },
+    {
+        "name": "Cà Phê Sữa",
+        "size": "700",
+        "price": 20000,
+        "danh_muc": "Cà Phê",
+        "image_path": "D:\\học đhoc\\Hoc ky 2\\Kỹ thuật lập trình\\3nguoi\\images\\DoUong\\ca_phe_sua.jpg"
+    },
+    {
+        "name": "Trà Sữa Truyền thống",
+        "size": "700",
+        "price": 20000,
+        "danh_muc": "Trà sữa",
+        "image_path": "D:\\học đhoc\\Hoc ky 2\\Kỹ thuật lập trình\\3nguoi\\images\\DoUong\\tra_sua_truyen_thong.jpg"
+    },
+    {
+        "name": "Trà Sữa Cốt Xoài",
+        "size": "700",
+        "price": 28000,
+        "danh_muc": "Trà sữa",
+        "image_path": "D:\\học đhoc\\Hoc ky 2\\Kỹ thuật lập trình\\3nguoi\\images\\DoUong\\tra_sua_cot_xoai.jpg"
+    },
+    {
+        "name": "Trà Sữa Khoai Môn",
+        "size": "700",
+        "price": 28000,
+        "danh_muc": "Trà sữa",
+        "image_path": "D:\\học đhoc\\Hoc ky 2\\Kỹ thuật lập trình\\3nguoi\\images\\DoUong\\tra_sua_khoai_mon.jpg"
+    },
+    {
+        "name": "Trà Sữa Matcha",
+        "size": "700",
+        "price": 30000,
+        "danh_muc": "Trà sữa",
+        "image_path": "D:\\học đhoc\\Hoc ky 2\\Kỹ thuật lập trình\\3nguoi\\images\\DoUong\\tra_sua_matcha.jpg"
+    },
+    {
+        "name": "Trà Sữa Củ Năng",
+        "size": "700",
+        "price": 27000,
+        "danh_muc": "Trà sữa",
+        "image_path": "D:\\học đhoc\\Hoc ky 2\\Kỹ thuật lập trình\\3nguoi\\images\\DoUong\\tra_sua_cu_nang.jpg"
+    },
+    {
+        "name": "Trà Sữa Kem Trứng",
+        "size": "700",
+        "price": 35000,
+        "danh_muc": "Trà sữa",
+        "image_path": "D:\\học đhoc\\Hoc ky 2\\Kỹ thuật lập trình\\3nguoi\\images\\DoUong\\tra_sua_kem_trung.jpg"
+    },
+    {
+        "name": "Trà Sữa Kem Phô Mai",
+        "size": "700",
+        "price": 32000,
+        "danh_muc": "Trà sữa",
+        "image_path": "D:\\học đhoc\\Hoc ky 2\\Kỹ thuật lập trình\\3nguoi\\images\\DoUong\\tra_sua_kem_pho_mai.jpg"
+    },
+    {
+        "name": "Nước Ép Cam",
+        "size": "700",
+        "price": 25000,
+        "danh_muc": "Nước Ép",
+        "image_path": "D:\\học đhoc\\Hoc ky 2\\Kỹ thuật lập trình\\3nguoi\\images\\DoUong\\nuoc_ep_cam.jpg"
+    },
+    {
+        "name": "Nước Ép Dưa Hấu",
+        "size": "700",
+        "price": 22000,
+        "danh_muc": "Nước Ép",
+        "image_path": "D:\\học đhoc\\Hoc ky 2\\Kỹ thuật lập trình\\3nguoi\\images\\DoUong\\nuoc_ep_dua_hau.jpg"
+    },
+    {
+        "name": "Nước Ép Ổi",
+        "size": "700",
+        "price": 24000,
+        "danh_muc": "Nước Ép",
+        "image_path": "D:\\học đhoc\\Hoc ky 2\\Kỹ thuật lập trình\\3nguoi\\images\\DoUong\\nuoc_ep_oi.jpg"
+    },
+    {
+        "name": "Nước Ép Cà Rốt",
+        "size": "700",
+        "price": 20000,
+        "danh_muc": "Nước Ép",
+        "image_path": "D:\\học đhoc\\Hoc ky 2\\Kỹ thuật lập trình\\3nguoi\\images\\DoUong\\nuoc_ep_ca_rot.jpg"
+    },
+    {
+        "name": "Nước Ép Thơm",
+        "size": "700",
+        "price": 27000,
+        "danh_muc": "Nước Ép",
+        "image_path": "D:\\học đhoc\\Hoc ky 2\\Kỹ thuật lập trình\\3nguoi\\images\\DoUong\\nuoc_ep_thom.jpg"
+    },
+    {
+        "name": "Sinh Tố Bơ",
+        "size": "700",
+        "price": 30000,
+        "danh_muc": "Sinh Tố",
+        "image_path": "D:\\học đhoc\\Hoc ky 2\\Kỹ thuật lập trình\\3nguoi\\images\\DoUong\\sinh_to_bo.jpg"
+    },
+    {
+        "name": "Sinh Tố Dâu",
+        "size": "700",
+        "price": 28000,
+        "danh_muc": "Sinh Tố",
+        "image_path": "D:\\học đhoc\\Hoc ky 2\\Kỹ thuật lập trình\\3nguoi\\images\\DoUong\\sinh_to_dau.jpg"
+    },
+    {
+        "name": "Sinh Tố Xoài",
+        "size": "700",
+        "price": 27000,
+        "danh_muc": "Sinh Tố",
+        "image_path": "D:\\học đhoc\\Hoc ky 2\\Kỹ thuật lập trình\\3nguoi\\images\\DoUong\\sinh_to_xoai.jpg"
+    },
+    {
+        "name": "Sinh Tố Mãng Cầu",
+        "size": "700",
+        "price": 20000,
+        "danh_muc": "Sinh Tố",
+        "image_path": "D:\\học đhoc\\Hoc ky 2\\Kỹ thuật lập trình\\3nguoi\\images\\DoUong\\sinh_to_mang_cau.jpg"
+    },
+    {
+        "name": "Matcha Đá Xay",
+        "size": "700",
+        "price": 28000,
+        "danh_muc": "Đá Xay",
+        "image_path": "D:\\học đhoc\\Hoc ky 2\\Kỹ thuật lập trình\\3nguoi\\images\\DoUong\\matcha_da_xay.jpg"
+    },
+    {
+        "name": "Việt Quất Đá Xay",
+        "size": "700",
+        "price": 27000,
+        "danh_muc": "Đá Xay",
+        "image_path": "D:\\học đhoc\\Hoc ky 2\\Kỹ thuật lập trình\\3nguoi\\images\\DoUong\\viet_quat_da_xay.jpg"
+    },
+    {
+        "name": "Dâu Đá Xay",
+        "size": "700",
+        "price": 25000,
+        "danh_muc": "Đá Xay",
+        "image_path": "D:\\học đhoc\\Hoc ky 2\\Kỹ thuật lập trình\\3nguoi\\images\\DoUong\\dau_da_xay.jpg"
+    },
+    {
+        "name": "Soda Biển Xanh",
+        "size": "700",
+        "price": 25000,
+        "danh_muc": "Soda",
+        "image_path": "D:\\học đhoc\\Hoc ky 2\\Kỹ thuật lập trình\\3nguoi\\images\\DoUong\\soda_bien_xanh.jpg"
+    },
+    {
+        "name": "Soda Bạc Hà Táo Xanh",
+        "size": "700",
+        "price": 27000,
+        "danh_muc": "Soda",
+        "image_path": "D:\\học đhoc\\Hoc ky 2\\Kỹ thuật lập trình\\3nguoi\\images\\DoUong\\soda_bacha_taoxanh.jpg"
+    },
+    {
+        "name": "Soda Việt Quất",
+        "size": "700",
+        "price": 25000,
+        "danh_muc": "Soda",
+        "image_path": "D:\\học đhoc\\Hoc ky 2\\Kỹ thuật lập trình\\3nguoi\\images\\DoUong\\soda_viet_quat.jpg"
+    },
+    {
+        "name": "CocaCola",
+        "size": "700",
+        "price": 15000,
+        "danh_muc": "Nước Ngọt",
+        "image_path": "D:\\học đhoc\\Hoc ky 2\\Kỹ thuật lập trình\\3nguoi\\images\\DoUong\\cocacola.jpg"
+    },
+    {
+        "name": "Pepsi",
+        "size": "700",
+        "price": 15000,
+        "danh_muc": "Nước Ngọt",
+        "image_path": "D:\\học đhoc\\Hoc ky 2\\Kỹ thuật lập trình\\3nguoi\\images\\DoUong\\pepsi.jpg"
+    },
+    {
+        "name": "7Up",
+        "size": "700",
+        "price": 15000,
+        "danh_muc": "Nước Ngọt",
+        "image_path": "D:\\học đhoc\\Hoc ky 2\\Kỹ thuật lập trình\\3nguoi\\images\\DoUong\\7up.jpg"
+    },
+    {
+        "name": "Trà Đào Cam Sả",
+        "size": "700",
+        "price": 27000,
+        "danh_muc": "Trà Trái Cây",
+        "image_path": "D:\\học đhoc\\Hoc ky 2\\Kỹ thuật lập trình\\3nguoi\\images\\DoUong\\tra_dao_cam_sa.jpg"
+    },
+    {
+        "name": "Trà Đào",
+        "size": "700",
+        "price": 25000,
+        "danh_muc": "Trà Trái Cây",
+        "image_path": "D:\\học đhoc\\Hoc ky 2\\Kỹ thuật lập trình\\3nguoi\\images\\DoUong\\tra_dao.jpg"
+    },
+    {
+        "name": "Trà Vải",
+        "size": "700",
+        "price": 23000,
+        "danh_muc": "Trà Trái Cây",
+        "image_path": "D:\\học đhoc\\Hoc ky 2\\Kỹ thuật lập trình\\3nguoi\\images\\DoUong\\tra_vai.jpg"
+    },
+    {
+        "name": "Trà Dưa Lưới Táo Xanh",
+        "size": "700",
+        "price": 27000,
+        "danh_muc": "Trà Trái Cây",
+        "image_path": "D:\\học đhoc\\Hoc ky 2\\Kỹ thuật lập trình\\3nguoi\\images\\DoUong\\tra_dua_luoi.jpg"
+    },
+    {
+        "name": "Trà Chanh Mật Ong",
+        "size": "700",
+        "price": 20000,
+        "danh_muc": "Trà Trái Cây",
+        "image_path": "D:\\học đhoc\\Hoc ky 2\\Kỹ thuật lập trình\\3nguoi\\images\\DoUong\\tra_chanh_mat_ong.jpg"
+    },
+    {
+        "name": "Trà Tắc Xí Muội",
+        "size": "700",
+        "price": 23000,
+        "danh_muc": "Trà Trái Cây",
+        "image_path": "D:\\học đhoc\\Hoc ky 2\\Kỹ thuật lập trình\\3nguoi\\images\\DoUong\\tra_tac.jpg"
+    },
+    {
+        "name": "Trà Mãng Cầu",
+        "size": "700",
+        "price": 35000,
+        "danh_muc": "Trà Trái Cây",
+        "image_path": "D:\\học đhoc\\Hoc ky 2\\Kỹ thuật lập trình\\3nguoi\\images\\DoUong\\tra_mang_cau.jpg"
+    },
+    {
+        "name": "Trà Ổi Hồng",
+        "size": "700",
+        "price": 30000,
+        "danh_muc": "Trà Trái Cây",
+        "image_path": "D:\\học đhoc\\Hoc ky 2\\Kỹ thuật lập trình\\3nguoi\\images\\DoUong\\tra_oi_hong.jpg"
+    },
+    {
+        "name": "Nước Lọc",
+        "size": "700",
+        "price": 5000,
+        "danh_muc": "Khác",
+        "image_path": "D:\\học đhoc\\Hoc ky 2\\Kỹ thuật lập trình\\3nguoi\\images\\DoUong\\nuoc_loc.jpg"
+    },
+    {
+        "name": "C2",
+        "size": "700",
+        "price": 10000,
+        "danh_muc": "Khác",
+        "image_path": "D:\\học đhoc\\Hoc ky 2\\Kỹ thuật lập trình\\3nguoi\\images\\DoUong\\tra-xanh-c2.jpg"
+    },
+    {
+        "name": "Dr.Thanh",
+        "size": "700",
+        "price": 15000,
+        "danh_muc": "Khác",
+        "image_path": "D:/học đhoc/Hoc ky 2/Kỹ thuật lập trình/3nguoi/images/DoUong/DRthanh.png"
+    }
+]

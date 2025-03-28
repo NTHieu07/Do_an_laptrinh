@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>800</width>
+    <height>565</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Skibidi Water</string>
+  </property>
+  <property name="windowIcon">
+   <iconset>
+    <normaloff>../../../images/skibidi.png</normaloff>../../../images/skibidi.png</iconset>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QWidget" name="verticalLayoutWidget">
+    <property name="geometry">
+     <rect>
+      <x>240</x>
+      <y>70</y>
+      <width>361</width>
+      <height>421</height>
+     </rect>
+    </property>
+    <layout class="QVBoxLayout" name="verticalLayout">
+     <item>
+      <widget class="QPushButton" name="Nhansubutton">
+       <property name="font">
+        <font>
+         <family>MS Shell Dlg 2</family>
+         <pointsize>20</pointsize>
+         <weight>9</weight>
+         <italic>false</italic>
+         <bold>false</bold>
+        </font>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">QPushButton {
+    /* Kiểu mặc định của nút */
+background-color: #F0F8FF;
+font: 75 20pt &quot;MS Shell Dlg 2&quot;;
+color: #048cfc;
+border-radius: 10px;
+border: 1px solid #048cfc;
+}
+
+/* Khi di chuột qua nút */
+QPushButton:hover {
+	background-color: rgb(220, 236, 255);
+}
+
+/* Khi nhấn nút */
+QPushButton:pressed {
+background-color: rgb(197, 227, 255);
+    /* Bạn có thể thay đổi màu chữ, viền... nếu muốn */
+}</string>
+       </property>
+       <property name="text">
+        <string>Nhân sự</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QPushButton" name="Hoadonbutton">
+       <property name="styleSheet">
+        <string notr="true">QPushButton {
+    /* Kiểu mặc định của nút */
+background-color: #F0F8FF;
+font: 75 20pt &quot;MS Shell Dlg 2&quot;;
+color: #048cfc;
+border-radius: 10px;
+border: 1px solid #048cfc;
+}
+
+/* Khi di chuột qua nút */
+QPushButton:hover {
+	background-color: rgb(220, 236, 255);
+}
+
+/* Khi nhấn nút */
+QPushButton:pressed {
+background-color: rgb(197, 227, 255);
+    /* Bạn có thể thay đổi màu chữ, viền... nếu muốn */
+}</string>
+       </property>
+       <property name="text">
+        <string>Hóa đơn</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QPushButton" name="Menubutton">
+       <property name="styleSheet">
+        <string notr="true">QPushButton {
+    /* Kiểu mặc định của nút */
+background-color: #F0F8FF;
+font: 75 20pt &quot;MS Shell Dlg 2&quot;;
+color: #048cfc;
+border-radius: 10px;
+border: 1px solid #048cfc;
+}
+
+/* Khi di chuột qua nút */
+QPushButton:hover {
+	background-color: rgb(220, 236, 255);
+}
+
+/* Khi nhấn nút */
+QPushButton:pressed {
+background-color: rgb(197, 227, 255);
+    /* Bạn có thể thay đổi màu chữ, viền... nếu muốn */
+}</string>
+       </property>
+       <property name="text">
+        <string>Menu</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QPushButton" name="Thongkebutton">
+       <property name="styleSheet">
+        <string notr="true">QPushButton {
+    /* Kiểu mặc định của nút */
+background-color: #F0F8FF;
+font: 75 20pt &quot;MS Shell Dlg 2&quot;;
+color: #048cfc;
+border-radius: 10px;
+border: 1px solid #048cfc;
+}
+
+/* Khi di chuột qua nút */
+QPushButton:hover {
+	background-color: rgb(220, 236, 255);
+}
+
+/* Khi nhấn nút */
+QPushButton:pressed {
+background-color: rgb(197, 227, 255);
+    /* Bạn có thể thay đổi màu chữ, viền... nếu muốn */
+}</string>
+       </property>
+       <property name="text">
+        <string>Thống kê</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+   <widget class="QPushButton" name="backbutton">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>0</y>
+      <width>51</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="icon">
+     <iconset>
+      <normaloff>../../../images/back.png</normaloff>../../../images/back.png</iconset>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>0</y>
+      <width>811</width>
+      <height>561</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="scaledContents">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <zorder>label</zorder>
+   <zorder>verticalLayoutWidget</zorder>
+   <zorder>backbutton</zorder>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
